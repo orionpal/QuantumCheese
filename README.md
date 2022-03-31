@@ -1,0 +1,1 @@
+Goal is to create a pathfinding algorithm that takes advantage of quantum mechanics to essentially try every path at once. Inspiration taken from papers on quantum biology and plants use of quantum mechanics for the photosynthesis process.
